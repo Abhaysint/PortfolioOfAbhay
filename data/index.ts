@@ -99,7 +99,7 @@
       des: "Created an app that helps users find teammates for competitive hackathons based on specific requirements, enabling collaboration by matching skills and project needs.",
       img: "/P4.png",
       iconLists: ["/next.png", "/convex.png", "/shadCN.png"],
-      link: "/ui.skillsync.com",
+      link: "https://github.com/Abhaysint/skillsync",
     },
   ];
   

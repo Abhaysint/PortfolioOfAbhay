@@ -19,7 +19,7 @@ const RecentProjects = () => {
           >
             <PinContainer
               title={item.title}
-              href={item.href}
+              href={item.link}
             >
               {/* Adjusted content to avoid nested <a> tags */}
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
@@ -68,7 +68,7 @@ const RecentProjects = () => {
                 {/* Ensure no nested <a> tags here */}
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Live Site
+                    Check the project
                   </p>
                   <FaLocationArrow className="ml-3" color="#CBACF9" />
                 </div>

@@ -1,4 +1,4 @@
-export const navItems = [
+  export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Contact", link: "#contact" },
@@ -48,7 +48,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently building an AI powered Education WebApp",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,7 +73,7 @@ export const navItems = [
       id: 1,
       title: "Leaf Chart for Papaya Plant",
       des: "Developed an app to predict nitrogen levels based on leaf color using KNN and a custom dataset, enhancing agricultural decision-making.",
-      img: "/p1.webp",
+      img: "/P1.webp",
       iconLists: ["/py.png", "/tf.png", "/flutter.png"],
       link: "https://github.com/Abhaysint/Leaf_Chart_Papaya_Plant",
     },
@@ -81,15 +81,15 @@ export const navItems = [
       id: 2,
       title: "Infant Monitoring App",
       des: "Created an app for parents to track child health with automated growth charts and integrated chat for doctor communication.",
-      img: "/p2.webp",
-      iconLists: ["/flutter.png", "/firebase.PNG", "/flCHART.svg"],
+      img: "/P2.webp",
+      iconLists: ["/flutter.png", "/firebase.png", "/flCHART.svg"],
       link: "https://github.com/Abhaysint/Infant_physioTherapy",
     },
     {
       id: 3,
       title: "AI-Powered Banking Insights App",
       des: "Developed a web-based financial management solution with AI-driven spending insights and real-time data visualization using D3.js and Chart.js.",
-      img: "/p3.jpg",
+      img: "/P3.jpg",
       iconLists: ["/next.png", "/appw.png", "/PLAID.png", "/shadCN.png"],
       link: "https://github.com/Abhaysint/BankingFull",
     },
@@ -97,7 +97,7 @@ export const navItems = [
       id: 4,
       title: "SkillSync - Teammate Finder WebApp",
       des: "Created an app that helps users find teammates for competitive hackathons based on specific requirements, enabling collaboration by matching skills and project needs.",
-      img: "/p4.png",
+      img: "/P4.png",
       iconLists: ["/next.png", "/convex.png", "/shadCN.png"],
       link: "/ui.skillsync.com",
     },

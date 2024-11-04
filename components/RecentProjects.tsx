@@ -68,7 +68,7 @@ const RecentProjects = () => {
                 {/* Ensure no nested <a> tags here */}
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check the project
+                    Check The Project Here 
                   </p>
                   <FaLocationArrow className="ml-3" color="#CBACF9" />
                 </div>
